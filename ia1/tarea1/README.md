@@ -5,15 +5,6 @@
 | David Eduardo Garcia Garcia | 201020136 | 1667062210101 |
 
 ---
----
----
----
----
----
----
----
----
----
 
 # Simple reflex agent: Vacuum cleaner
 
