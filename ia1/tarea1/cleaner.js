@@ -29,7 +29,7 @@ function test(states){
     states[1] = getRandomDirt(states[1]);
     states[2] = getRandomDirt(states[2]);
 
-    setTimeout(function(){ test(states); }, 500);
+    setTimeout(function(){ test(states); }, 250);
 }
 
 function getRandomDirt(previousState) {
